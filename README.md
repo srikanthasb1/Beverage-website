@@ -49,7 +49,7 @@
 
 5.Run the project (by running main method is BusinessProjectApplication.java) OR right clink on the project > Run As > Spring Boot App. <br>
 
-6.Open http://localhost:2330/home in any browser. <br>
+6.Open http://localhost:8080/home in any browser. <br>
 
 7.Now your tables will be created in the databse. <br>
    - You have to add one admin data manually to login as admin, So add one admin data. <br>
