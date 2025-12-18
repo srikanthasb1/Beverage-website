@@ -1,0 +1,55 @@
+@charset "ISO-8859-1";
+body
+{
+	background-image: url("/Images/logo-black.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-top: 0px
+}
+*{
+	color: rgb(0, 0, 0);
+	font-weight: bold;
+	font-style: oblique;
+}
+input{
+	display: block;
+	padding: 2.5px;
+	border: none;
+	outline: none;
+	background-color: transparent;
+	border-bottom: 2px black solid;
+	font-size: 10px;
+	width: 250px;
+	color: black;
+}
+.addUser
+{
+	background-color: transparent;
+	width: 400px;
+	height: 400px;
+	position: absolute;
+	left: 400px;
+	top: 30px;
+}
+button
+{
+	color: rgb(0, 0, 0);
+	background-color: rgb(54, 54, 54);
+	border: 1px black solid;
+	padding: 9px;
+	cursor: pointer;
+	position: relative;
+	left: 45px;
+	top: 20px;
+	font-weight: bold;
+	color: aliceblue;
+}
+a{
+	position: relative;
+	top: 20px;
+	border: 1px solid rgb(101, 101, 101);
+	padding:10px;
+	background-color: rgb(116, 116, 116);
+	text-decoration: none;
+	
+}
